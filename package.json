@@ -1,0 +1,24 @@
+{
+  "name": "com.valknight.markiplier",
+  "displayName": "Markiplier",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "description": "adds the bite of 87 reaction to Unity",
+  "category": "Tool",
+  "type": "tool",
+  "license": "MIT",
+  "author": {
+    "name": "Val Knight",
+    "email": "val@valknight.xyz",
+    "url": "https://www.valknight.xyz"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "Tool",
+    "Editor Extension"
+  ],
+  "samples": [
+  ]
+}
