@@ -2,6 +2,8 @@
 
 > *com.valknight.markiplier*
 
+![Demo screenshot of Markiplier for Unity](Documentation~/DemoImage.png?raw=true "Demo screenshot of Markiplier for Unity")
+
 ## Install
 
 1. Click "Install via Git URL"

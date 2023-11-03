@@ -42,12 +42,10 @@ namespace com.valknight.markiplier.Editor
             }
             if (ReferenceEquals(bg, null))
             {
-                Debug.Log("Loading markiplier BG...");
                 bg = (Texture2D)AssetDatabase.LoadAssetAtPath("Packages/com.valknight.markiplier/Editor/MarkiplierExtensions/markiplier_cataracts.png", typeof(Texture2D));
             }
             if (ReferenceEquals(eyes, null))
             {
-                Debug.Log("Loading markiplier eyes...");
                 eyes = (Texture2D)AssetDatabase.LoadAssetAtPath("Packages/com.valknight.markiplier/Editor/MarkiplierExtensions/markiplier_pupil.png", typeof(Texture2D));
             }
 
