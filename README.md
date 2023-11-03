@@ -5,7 +5,7 @@
 ## Install
 
 1. Click "Install via Git URL"
-2. Use `todo` as the Git URL
+2. Use `https://github.com/valknight/com.valknight.markiplier.git` as the Git URL
 3. Add the package
 
 ## Usage
